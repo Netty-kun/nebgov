@@ -10,8 +10,6 @@ dist/
 out/
 
 # Environment
-.env
-.env.local
 .env.*.local
 .env.testnet
 
@@ -20,10 +18,10 @@ out/
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
 *.swp
 .claude/
 .cargo/
 test_snapshots/
 tools/sim/reports/*.json
+config.bat
